@@ -55,5 +55,7 @@ As a multi-asset web wallet, users are in full control of their private keys and
 
 9. __Why is your code obscured and Vidulum closed-source?__ While it is important to us to support open-source code, especially in the cryptocurrency and blockchain space, the Vidulum Web Wallet is built with proprietary code from the ground up. By obscuring and keeping the application closed-source, Vidulum is protecting users and further securing its place as a software development company in the blockchain space.
 
-10. __How can I get in touch with the Vidulum Team?__ In order to get in touch with the Vidulum team, you can email us at [support@vidulum.org](support@vidulum.org) or speak to us directly on [Discord](https://discord.gg/qugWUdg).
+10. __What are V-Rewards?__ The V-Staking Reward System is built to reward users of the platform with VDL. Users must own a minimum amount of a specified cryptocurrency on their Vidulum App wallet to collect the daily reward. The amount of reward a user receives is weighted to the percentage of the total staked cryptocurrency they hold in their wallet at the time of payout. As development continues more ways to earn through the V-Staking Reward System will be introduced!
+
+11. __How can I get in touch with the Vidulum Team?__ In order to get in touch with the Vidulum team, you can email us at [support@vidulum.org](support@vidulum.org) or speak to us directly on [Discord](https://discord.gg/qugWUdg).
 
