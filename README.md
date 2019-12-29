@@ -41,9 +41,7 @@ As a multi-asset web wallet, users are in full control of their private keys and
 
 2. __How does the Vidulum App Work?__ Private keys for the Vidulum App are generated client side during account creation through a proprietary algorithm. The Vidulum team does not have access to any users private keys as this process does not occur on or utilize Vidulum Servers. Your addresses are viewable in plain text or as a QR code with the option to export all private keys. Our motto, "your keys, your crypto" rings true in a sometimes difficult to navigate ecosystem of cryptocurrency exchanges, wallets, addresses and evolving technology.
 
-3. __What does Vidulum mean?__ Vidulum is a latin word for "wallet" which is exactly the service provided through the web application.
-
-Vidulum is pronounced, Vi-do-lum.
+3. __What does Vidulum mean?__ Vidulum is a latin word for "wallet" which is exactly the service provided through the web application. Vidulum is pronounced, Vi-do-lum.
 
 4. __How is Vidulum different than other wallet solutions?__ With many services and wallets available to the cryptocurrency user base, Vidulum differentiates itself by simplfying the user experience in order to support the new-comer while still meeting the needs of the broader crypto community. While balancing security with ease of use, Vidulum App users are in full control of their wallet on the platform. 
 
@@ -55,7 +53,7 @@ Vidulum is pronounced, Vi-do-lum.
 
 8. __What is V-staking?__ When users hold certain assets in their Vidulum App wallets they earn VDL as a reward through a process called V-Staking. Unlike traditional staking, V-Staking does not require users to keep their wallets open 24-hours, 7 days a week. Simply deposit the minimum required amount of VDL for each supported cryptocurrency and start earning daily!
 
-9.__Why is your code obscured and Vidulum closed-source?__ While it is important to us to support open-source code, especially in the cryptocurrency and blockchain space, the Vidulum Web Wallet is built with proprietary code from the ground up. By obscuring and keeping the application closed-source, Vidulum is protecting users and further securing its place as a software development company in the blockchain space.
+9. __Why is your code obscured and Vidulum closed-source?__ While it is important to us to support open-source code, especially in the cryptocurrency and blockchain space, the Vidulum Web Wallet is built with proprietary code from the ground up. By obscuring and keeping the application closed-source, Vidulum is protecting users and further securing its place as a software development company in the blockchain space.
 
 10. __How can I get in touch with the Vidulum Team?__ In order to get in touch with the Vidulum team, you can email us at [support@vidulum.org](support@vidulum.org) or speak to us directly on [Discord](https://discord.gg/qugWUdg).
 
