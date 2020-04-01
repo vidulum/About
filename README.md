@@ -4,7 +4,7 @@ About Vidulum and Frequently Asked Questions
 ## What is Vidulum?
 Vidulum, is a digital asset wallet that supports multiple cryptocurrencies and is accessible online through any modern web browser. With a focus on ease of use and functionality, the Vidulum team is dedicated to driving adoption while tearing down the barriers of entry. Users of the Vidulum App can be rewarded through the V-Staking system daily, by simply holding a v-rewards supported cryptocurrency. VDL is the native cryptocurrency that users will receive through the V-Staking System. VDL is *Proof of Work* and supports *Masternodes*.
 
-As a multi-asset web wallet, users are in full control of their private keys and are encouraged to ensure that they have secured their accounts with a strong password, unique username and pin. Further it is encouraged that users enable 2-factor authentication. The Vidulum team is unable to retreive account credentials, by design, and this means that only you can access your account, making it critical that you do not lose your credentials and take a back up of your private keys, storing them securely.
+As a multi-asset web wallet, users are in full control of their private keys and are encouraged to ensure that they have secured their accounts with a strong password, unique username and pin. Further it is encouraged that users enable 2-factor authentication. The Vidulum team is unable to retrieve account credentials, by design, and this means that only you can access your account, making it critical that you do not lose your credentials and take a back up of your private keys, storing them securely.
 
 ## Official Links
 * __Vidulum Website__ https://vidulum.app 
