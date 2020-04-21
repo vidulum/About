@@ -30,10 +30,8 @@ As a multi-asset web wallet, users are in full control of their private keys and
 * __Instagram__ https://www.instagram.com/vidulum_app/ 
 
 ### Other Social Media Channels
-* __Reddit__ https://www.reddit.com/r/VidulumApp/ 
-* __LinkedIN__ https://www.linkedin.com/company/vidulumapp/ 
+* __Reddit__ https://www.reddit.com/r/VidulumOfficial/ 
 * __Pinterest__ https://www.pinterest.com/VidulumApp/ 
-* __Tumblr__ https://vidulum.tumblr.com/
 
 # Frequently Asked Questions
 
