@@ -24,14 +24,15 @@ As a multi-asset web wallet, users are in full control of their private keys and
 * __Crex24__ https://crex24.com/exchange/VDL-BTC
 
 ### Active Social Media Channels
-* __Medium__ https://medium.com/vidulum 
 * __Twitter__ https://twitter.com/VidulumApp 
 * __Facebook__ https://www.facebook.com/VidulumTeam/ 
 * __Instagram__ https://www.instagram.com/vidulum_app/ 
+* __Youtube__ https://www.youtube.com/channel/UCNd92ZViZweu6zz5ydt_wrQ
+* __Reddit__ https://www.reddit.com/r/VidulumOfficial/ 
 
 ### Other Social Media Channels
-* __Reddit__ https://www.reddit.com/r/VidulumOfficial/ 
 * __Pinterest__ https://www.pinterest.com/VidulumApp/ 
+* __Medium__ https://medium.com/vidulum 
 
 # Frequently Asked Questions
 
