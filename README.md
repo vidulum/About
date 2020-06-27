@@ -9,6 +9,7 @@ As a multi-asset web wallet, users are in full control of their private keys and
 ## Official Links
 * __Vidulum Website__ https://vidulum.app 
 * __Vidulum App__ https://wallet.vidulum.app
+* __Anroid App__ https://play.google.com/store/apps/details?id=com.vidulumwallet.app
 * __Vidulum Explorer__ https://explorer.vidulum.app/
 * __Vidulum Github__ https://github.com/vidulum/vidulum.app
 * __Vidulum Discord__ https://discord.gg/qugWUdg
