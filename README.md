@@ -8,8 +8,12 @@ As a multi-asset web wallet, users are in full control of their private keys and
 
 ## Official Links
 * __Vidulum Website__ https://vidulum.app 
+* __Lite Paper__ https://vidulum.app/blog/2020/09/07/Vidulum-Lite-Paper-2020/
+
 * __Vidulum App__ https://wallet.vidulum.app
 * __Android App__ https://play.google.com/store/apps/details?id=com.vidulumwallet.app
+* __iOS App__ https://apps.apple.com/us/app/id1505859171
+
 * __Vidulum Explorer__ https://explorer.vidulum.app/
 * __Vidulum Github__ https://github.com/vidulum/vidulum.app
 * __Vidulum Discord__ https://discord.gg/qugWUdg
