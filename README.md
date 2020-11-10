@@ -16,7 +16,7 @@ As a multi-asset web wallet, users are in full control of their private keys and
 
 * __Vidulum Explorer__ https://explorer.vidulum.app/
 * __Vidulum Github__ https://github.com/vidulum
-* __Vidulum Discord__ https://discord.gg/qugWUdg
+* __Vidulum Discord__ 
 * __Press Kit__ https://github.com/vidulum/Vidulum-Press-Kit
 * __Bitcoin Talk Announcement__ https://bitcointalk.org/index.php?topic=5062890
 
