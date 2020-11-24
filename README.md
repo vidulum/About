@@ -16,7 +16,7 @@ As a multi-asset web wallet, users are in full control of their private keys and
 
 * __Vidulum Explorer__ https://explorer.vidulum.app/
 * __Vidulum Github__ https://github.com/vidulum
-* __Vidulum Discord__ 
+* __Vidulum Discord__ https://discord.gg/hne7Ccq
 * __Press Kit__ https://github.com/vidulum/Vidulum-Press-Kit
 * __Bitcoin Talk Announcement__ https://bitcointalk.org/index.php?topic=5062890
 
@@ -61,5 +61,5 @@ As a multi-asset web wallet, users are in full control of their private keys and
 
 10. __What are V-Rewards?__ The [V-Staking Reward System](https://vidulum.app/blog/2020/07/15/What-Is-V-Staking-How-To-Earn-VDL/) is built to reward users of the platform with VDL. Users must hold a minimum amount of a specified cryptocurrency on their Vidulum App wallet to collect the daily reward. The amount of reward a user receives is weighted to the percentage of the total staked cryptocurrency they hold in their wallet. As development continues, more ways to earn through the V-Rewards System will be introduced!
 
-11. __How can I get in touch with the Vidulum Team?__ In order to get in touch with the Vidulum team, you can email us at [support@vidulum.org](support@vidulum.org) or speak to us directly on [Discord](https://discord.gg/qugWUdg).
+11. __How can I get in touch with the Vidulum Team?__ In order to get in touch with the Vidulum team, you can email us at [support@vidulum.org](support@vidulum.org) or speak to us directly on [Discord](https://discord.gg/hne7Ccq).
 
