@@ -45,7 +45,7 @@ As a multi-asset web wallet, users are in full control of their private keys and
 
 2. __How does the Vidulum App Work?__ Private keys for the Vidulum App are generated client side during account creation. The Vidulum team does not have access to any users private keys as this process does not occur on or utilize Vidulum Servers. Your addresses are viewable in plain text or as a QR code. Proper backup of your private keys will ensure access to your coins even if Vidulum App became unavailable. Our motto, "your keys, your crypto" rings true in a sometimes difficult to navigate ecosystem of cryptocurrency exchanges, wallets, addresses and evolving technology.
 
-3. __What does Vidulum mean?__ Vidulum is a latin word for "wallet" which is exactly the service provided through the web application. Vidulum is pronounced, Vi-do-lum.
+3. __What does Vidulum mean?__ Vidulum is a latin word for "wallet" which is exactly the service provided through the crypto web wallet application. Vidulum is pronounced, Vi-do-lum.
 
 4. __How is Vidulum different than other wallet solutions?__ Rewards and Features; this is what sets Vidulum apart from other multi-asset options. With many services and wallets available to the cryptocurrency user, Vidulum differentiates itself by simplfying the user experience in order to support the new-comer while still meeting the needs of the broader crypto community. While balancing security with ease of use, Vidulum App users are in full control of their wallet on the platform. 
 
