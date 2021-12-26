@@ -63,3 +63,4 @@ As a multi-asset web wallet, users are in full control of their private keys and
 
 11. __How can I get in touch with the Vidulum Team?__ In order to get in touch with the Vidulum team, you can email us at [support@vidulum.org](support@vidulum.org) or speak to us directly on [Discord](https://discord.gg/hne7Ccq).
 
+12. __How to Delegate, Redelegat, Undelegat VDL and participate in network consensus from the app?__ You can participate in network consensus directly in Vidulum App. Navigate to the page, Proof of Stake. From here you can choose to delegate to a validator, redelegate to a different validator, or undelegate all together which does take 21 days to unlock. Check out this video to see how: https://www.youtube.com/watch?v=XJFZTAMG4WM
