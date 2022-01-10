@@ -14,19 +14,15 @@ As a multi-asset web wallet, users are in full control of their private keys and
 * __Android App__ https://play.google.com/store/apps/details?id=com.vidulumwallet.app
 * __iOS App__ https://apps.apple.com/us/app/id1505859171
 
-* __Vidulum Explorer__ https://explorer.vidulum.app/
+* __Vidulum Explorer__ https://explorers.vidulum.app/
 * __Vidulum Github__ https://github.com/vidulum
 * __Vidulum Discord__ https://discord.gg/hne7Ccq
 * __Press Kit__ https://github.com/vidulum/Vidulum-Press-Kit
 * __Bitcoin Talk Announcement__ https://bitcointalk.org/index.php?topic=5062890
 
-### Desktop Wallet
-* __GUI Wallet__ https://github.com/vidulum/vidulum/releases/ 
-* __VDL Scripts__ https://github.com/vidulum/vidulum-scripts
-
 ### Exchanges
+* __OSMOSIS DEX__ https://app.osmosis.zone/pool/613
 * __Stex__ https://app.stex.com/en/trade/pair/BTC/VDL
-* __Crex24__ https://crex24.com/exchange/VDL-BTC
 
 ### Active Social Media Channels
 * __Twitter__ https://twitter.com/VidulumApp 
@@ -38,6 +34,11 @@ As a multi-asset web wallet, users are in full control of their private keys and
 ### Other Social Media Channels
 * __Pinterest__ https://www.pinterest.com/VidulumApp/ 
 * __Medium__ https://medium.com/vidulum 
+
+### SLATED FOR DEPRECATION: Desktop Wallet
+* __GUI Wallet__ https://github.com/vidulum/vidulum/releases/ 
+* __VDL Scripts__ https://github.com/vidulum/vidulum-scripts
+
 
 # Frequently Asked Questions
 
