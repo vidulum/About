@@ -39,6 +39,8 @@ As a multi-asset web wallet, users are in full control of their private keys and
 * __GUI Wallet__ https://github.com/vidulum/vidulum/releases/ 
 * __VDL Scripts__ https://github.com/vidulum/vidulum-scripts
 
+### Tip Bot Guide
+* __PDF Guide__ https://github.com/vidulum/About/blob/master/tip-bot.pdf
 
 # Frequently Asked Questions
 
